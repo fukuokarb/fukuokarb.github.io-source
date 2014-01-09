@@ -98,3 +98,9 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+# Github pages
+
+safe: true
+lsi: false
+pygments: true

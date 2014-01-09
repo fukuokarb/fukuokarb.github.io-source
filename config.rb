@@ -1,4 +1,18 @@
 require 'sass-globbing'
+require 'liquid'
+require 'jekyll'
+
+module Jekyll
+  module Filter
+    def date_to_xmlschema(date)
+    case date
+    when String
+      DateTime.xmlschema(date)
+    when Date
+      date.xmlschema
+    end
+  end
+end
 
 # Require any additional compass plugins here.
 project_type = :stand_alone
