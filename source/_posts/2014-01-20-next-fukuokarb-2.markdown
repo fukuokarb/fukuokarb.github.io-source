@@ -4,6 +4,7 @@ title: "次回の Fukuoka.rb は01/23 (木)開催です"
 date: 2014-01-20 15:17:44 +0900
 comments: true
 categories: 
+  - event
 ---
 
 2014/01/23 (木) 19:30 - 21:30 で、Fukuoka.rbを開催します。詳細は下記のイベントページをご参照ください。
